@@ -29,4 +29,4 @@ end
 puts (Time.now - startTime).to_s + " seconds"
 puts  minNum.to_s+ " occured " + maxCount.to_s + " times"
 
-
+puts "test"
